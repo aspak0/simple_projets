@@ -1,0 +1,17 @@
+* {
+  background-color: aliceblue;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  align-items: center;
+  justify-content: center;
+}
+
+table td {
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  color: black;
+}
